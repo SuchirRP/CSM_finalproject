@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/home/frzfishcustard/Desktop/CollegeStuff/MahindraUniversity/4 - 1/ComputationalSequenceModelling/Assigments/csmass_env/bin/python3" "$0" "$@"
-' '''
+#!/home/enigma/Projects/CSM_finalproject/csmass_env/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
